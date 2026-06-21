@@ -2,7 +2,7 @@
 1_Files
 2_Videos
 3_Images
-4_setups
+4_Setups
 5_Zips
 6_Codes
 7_Audios

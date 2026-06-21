@@ -4,6 +4,10 @@
 
 Automatically moves files in a folder into categorized subfolders based on file extension. Target folder names are fully customizable.
 
+## Background
+
+I used to dump all my downloaded files into a single folder. Over time it became a mess, so I built this tool to sort everything out automatically.
+
 ## Usage
 
 ### Option 1: Double-click
