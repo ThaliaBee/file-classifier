@@ -1,0 +1,6 @@
+classify.py
+/folders.txt
+
+build/
+*.spec
+__pycache__/
