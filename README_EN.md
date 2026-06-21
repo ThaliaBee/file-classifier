@@ -12,12 +12,12 @@ I used to dump all my downloaded files into a single folder. Over time it became
 
 ### Option 1: Double-click
 
-Double-click `dist/classify.exe`, enter the path to the folder you want to organize when prompted, then press Enter to confirm and start classifying.
+Double-click `classify.exe`, enter the path to the folder you want to organize when prompted, then press Enter to confirm and start classifying.
 
 ### Option 2: Command line
 
 ```
-dist/classify.exe "D:\Download"
+classify.exe "D:\Download"
 ```
 
 ## Classification Rules
@@ -36,7 +36,7 @@ Files with extensions not listed above are left untouched.
 
 ## Customizing Target Folder Names
 
-`folders.txt` (located in the same directory as `dist/classify.exe`) controls the name of each target folder.
+`folders.txt` (located in the same directory as `classify.exe`) controls the name of each target folder.
 
 **File format** — line 1 is a description header, lines 2–8 are the folder names in order:
 

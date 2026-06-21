@@ -12,12 +12,12 @@
 
 ### 方式一：双击运行
 
-直接双击 `dist\classify.exe`，按提示输入要整理的文件夹路径（支持粘贴路径），回车确认后开始分类。
+直接双击 `classify.exe`，按提示输入要整理的文件夹路径（支持粘贴路径），回车确认后开始分类。
 
 ### 方式二：命令行传入路径
 
 ```
-dist\classify.exe "D:\Download"
+classify.exe "D:\Download"
 ```
 
 ## 分类规则
@@ -36,7 +36,7 @@ dist\classify.exe "D:\Download"
 
 ## 自定义目标文件夹名称
 
-与 `dist\classify.exe` 同目录下的 `folders.txt` 用于配置各类别的目标文件夹名称。
+与 `classify.exe` 同目录下的 `folders.txt` 用于配置各类别的目标文件夹名称。
 
 **文件格式**（第一行为说明，从第二行起每行对应一个类别）：
 
